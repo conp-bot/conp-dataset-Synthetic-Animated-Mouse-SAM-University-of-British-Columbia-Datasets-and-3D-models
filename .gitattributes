@@ -1,3 +1,4 @@
 
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
+DATS.json annex.largefiles=nothing
