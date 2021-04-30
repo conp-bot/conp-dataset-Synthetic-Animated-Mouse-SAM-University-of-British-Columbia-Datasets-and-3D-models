@@ -1,6 +1,7 @@
 
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
+**/LICENSE* annex.largefiles=nothing
 DATS.json annex.largefiles=nothing
 README.md annex.largefiles=nothing
 .conp-osf-crawler.json annex.largefiles=nothing
