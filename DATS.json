@@ -1,0 +1,109 @@
+{
+    "title": "Synthetic Animated Mouse (SAM), University of British Columbia, Datasets and 3D-models",
+    "creators": [
+        {
+            "name": "Luis Bolanos"
+        },
+        {
+            "name": "Jeffrey LeDue"
+        },
+        {
+            "name": "Timothy H. Murphy (Murphy Lab)"
+        },
+        {
+            "name": "Dongsheng Xiao"
+        },
+        {
+            "name": "UBC Brain Circuits Cluster"
+        },
+        {
+            "name": "Carlos Doebeli"
+        },
+        {
+            "name": "PANKAJ GUPTA"
+        },
+        {
+            "name": "hao hu"
+        },
+        {
+            "name": "Helge Rhodin"
+        }
+    ],
+    "description": "3D virtual mouse-body generates synthetic training data for behavioral analysis\n\nLuis A. Bola\u00f1os1,2\u2020, Dongsheng Xiao1,2\u2020, Nancy L. Ford4, Jeff M. LeDue1,2, Pankaj K. Gupta1,2, Carlos Doebeli1,2, Hao Hu1,2, Helge Rhodin3, and Timothy H. Murphy1,2*  \n\n1Department of Psychiatry; 2 Djavad Mowafaghian Centre for Brain Health; 3Department of Computer Science;  4Centre for High-Throughput Phenogenomics, Department of Oral Biological and Medical Sciences\n\nUniversity of British Columbia, Vancouver, British Columbia, Canada, V6T 1Z3",
+    "version": "2021-04-09T14:12:32.548954",
+    "licenses": [
+        {
+            "name": "CC0"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2020-08-24 22:18:05",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2021-04-09 14:12:32",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 13.5,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/h3ec5/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "University of British Columbia"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "23784"
+                }
+            ]
+        }
+    ],
+    "identifier": {
+        "identifier": "10.17605/OSF.IO/H3EC5",
+        "identifierSource": "OSF DOI"
+    },
+    "types": [
+        {
+            "value": "MRI"
+        }
+    ]
+}
