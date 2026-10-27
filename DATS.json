@@ -57,13 +57,74 @@
     ],
     "distributions": [
         {
-            "size": 13.5,
+            "title": "Main project files",
+            "size": 3.13,
             "unit": {
                 "value": "GB"
             },
             "access": {
                 "landingPage": "https://osf.io/h3ec5/",
-                "accessURL": "https://files.us.osf.io/v1/resources/znt9d/providers/osfstorage/?zip=h3ec5",      
+                "accessURL": "https://files.us.osf.io/v1/resources/h3ec5/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Code (GitHub: ubcbraincircuits/mCBF)",
+            "identifier": {
+                "identifier": "https://github.com/ubcbraincircuits/mCBF",
+                "identifierSource": "GitHub"
+            },
+            "size": 14.35,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/h3ec5/",
+                "accessURL": "https://github.com/ubcbraincircuits/mCBF/archive/refs/heads/master.zip",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "mCBF - Data",
+            "identifier": {
+                "identifier": "https://osf.io/dvs5n/",
+                "identifierSource": "OSF"
+            },
+            "size": 10.32,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/h3ec5/",
+                "accessURL": "https://files.us.osf.io/v1/resources/dvs5n/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "SAM Updates",
+            "identifier": {
+                "identifier": "https://osf.io/yvrzg/",
+                "identifierSource": "OSF"
+            },
+            "size": 798.34,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/h3ec5/",
+                "accessURL": "https://files.us.osf.io/v1/resources/yvrzg/providers/osfstorage/?zip=",
                 "authorizations": [
                     {
                         "value": "public"
